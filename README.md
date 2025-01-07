@@ -14,3 +14,18 @@ This project is undertaken to analyze customer demographics, behaviors, and chur
 **Excel:** Data cleaning and preliminary analysis.
 
 **Power BI:** Data transformation, modelling, and visualization.
+
+**Data Cleaning (Excel)**
+
+Changed the values under 3 columns (HasCrCard, IsActiveMember, and Exited) to "Yes" and "No"
+
+**Data Transformation (Power BI)**
+
+Imported dataset into Power BI
+
+Performed transformations (e.g., calculated columns, data type changes).
+
+Used DAX for calculated measures and columns (e.g., Churn Rate, Total Customers, Average Account Balance, Oldest/Youngest Age, Age Group, Salary Group, Credit Score Group, etc).
+
+**VISUALIZATIONS AND DASHBOARDS**
+
