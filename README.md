@@ -1,2 +1,2 @@
 # European Bank Customer Churn Analysis using MS Excel and Power BI
-This project analyzes customers' behaviour across 3 different countries in an European bank. The data provides a glance at the churn rate based on different customer segments.
+This project is undertaken to analyze customer demographics, behaviors, and churn patterns, identify key churn predictors, examine regional differences in account behavior, and segment customers for targeted retention and marketing strategies.
