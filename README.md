@@ -3,11 +3,10 @@
 
 This project is undertaken to provide a detailed analysis of customer demographics, behaviors, and churn patterns of 10,000 customers at a European bank. The project will identify key churn predictors, examine regional differences in account behavior, and segment customers for targeted retention and marketing strategies.
 
-**DATASET DESCRIPTION**
+**DESCRIPTION OF THE DATASET**
 
-The dataset used for this project was downloaded from [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank).
+The dataset used for this project was downloaded from [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank), and contains account information for 10,000 customers at a European bank, including details on their credit score, balance, products, and whether they have churned. The original CSV file had a single table with 13 columns of partly clean data. The CSV file was first converted to an Excel file before importing into Power BI for transformation. 
 
-**Size and Scope:** Account information for 10,000 customers at a European bank, including details on their credit score, balance, products, and whether they have churned.
 
 **TOOLS AND TECHNOLOGIES USED**
 
