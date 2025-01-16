@@ -16,15 +16,17 @@ The dataset used for this project was downloaded from [Maven Analytics](https://
 
 **Data Cleaning (Excel)**
 
-As the dataset was already clean, the major actions taken in Excel was Changing the values under 3 columns (HasCrCard, IsActiveMember, and Exited) to "Yes" and "No"
+As the dataset was already clean and almost ready for use, the major actions taken in Excel was Changing the values under 3 columns (HasCrCard, IsActiveMember, and Exited) to "Yes" and "No"
 
 **Data Transformation (Power BI)**
 
 This was the major tool used for this project. After the dataset was imported into Power BI, data transformations were performed. Four calculated columns were added to the table, and data type changes were made to three columns.
 
-We used DAX to achieve the calculated measures and columns (e.g., Churn Rate, Total Customers, Average Account Balance, Oldest/Youngest Age, Age Group, Salary Group, Credit Score Group, etc).
+I used DAX to achieve the calculated measures and columns (e.g., Churn Rate, Total Customers, Average Account Balance, Oldest/Youngest Age, Age Group, Salary Group, Credit Score Group, etc).
 
-**VISUALIZATIONS AND DASHBOARDS**
+**DATA VISUALIZATIONS AND DASHBOARDS**
+
+The project has been visualized in one 
 
 Bar charts for trend analysis.
 
