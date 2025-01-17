@@ -51,3 +51,4 @@ The bank equally have more customers who are high salary earners between €100,
 ![Overview](https://github.com/user-attachments/assets/69c1d779-c69f-46b2-8f4e-d49adcb82501)
 
 
+* **KEY FINDINGS**: Here are some of the key findings deduced from navigating the visuals using the slicers
