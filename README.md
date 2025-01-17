@@ -26,16 +26,16 @@ I used DAX to achieve the calculated measures and columns (e.g., Churn Rate, Tot
 
 **DATA VISUALIZATIONS AND DASHBOARDS**
 
-The project has been visualized in one 
+The project has been visualized on a single dashboard with the following visual components for easy navigation and adequate understanding, and ultimately to get the key insights from the analysis to aid business decision making going forward;
 
-Bar charts for trend analysis.
+* Bar charts for trend analysis.
 
-Pie chart for categorical breakdown by gender (male and female).
+* Pie chart for categorical breakdown by gender (male and female).
 
-Cards for metrics (Total customers, Oldest age, Oldest age, Average account balance, Churn rate, and Churned Customers).
+* Cards for metrics (Total customers, Oldest age, Oldest age, Average account balance, Churn rate, and Churned Customers).
 
-Filters and slicers for interactivity
+* Filters and slicers for interactivity
 
-Tables for comparative analysis
+* Tables for comparative analysis
 
-Reset button to return back to default after interactive analysis.
+* Reset button to return back to default after interactive analysis.
