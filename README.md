@@ -47,3 +47,7 @@ Some Key Insights from this project's data visualization are summarized below:
 * **OVERVIEW**: The general overview of the data shows the project is based on 10,000 customers of the bank from across France, Germany and Spain, out of which 2,037 customers have churned and the churn rate is 20.37%. The oldest customer is 92 years, while the youngest is 18 years. The average account balance is €76,490.
 The gender distribution shows that 54.57% of the customers are male, while 45.43% are female. Geographically, a greater percentage of the customers are from France, followed by Germany and Spain respectively.
 The age distribution visual shows that a greater number of the customers are between the age 26 -55, with the leading age group being 36 - 45.
+The bank equally have more customers who are high salary earners between €100,001 - €200,000, and the customer salary group visual shows that the number of customers increased as the salary goes higher.
+![Overview](https://github.com/user-attachments/assets/69c1d779-c69f-46b2-8f4e-d49adcb82501)
+
+
