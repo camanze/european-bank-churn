@@ -26,7 +26,7 @@ I used DAX to achieve the calculated measures and columns (e.g., Churn Rate, Tot
 
 **DATA VISUALIZATIONS AND DASHBOARDS**
 
-The project has been visualized on a single dashboard with the following visual components for easy navigation and adequate understanding, and ultimately to get the key insights from the analysis to aid business decision making going forward;
+The project has been visualized on a single dashboard with the following visual components for easy navigation and adequate understanding, and ultimately to draw key insights from the analysis to aid business decision making going forward;
 
 * Bar charts for trend analysis.
 
@@ -39,3 +39,11 @@ The project has been visualized on a single dashboard with the following visual 
 * Tables for comparative analysis
 
 * Reset button to return back to default after interactive analysis.
+
+**INSIGHTS**
+
+Some Key Insights from this project's data visualization are summarized below:
+
+* **OVERVIEW**: The general overview of the data shows the project is based on 10,000 customers of the bank from across France, Germany and Spain, out of which 2,037 customers have churned and the churn rate is 20.37%. The oldest customer is 92 years, while the youngest is 18 years. The average account balance is €76,490.
+The gender distribution shows that 54.57% of the customers are male, while 45.43% are female. Geographically, a greater percentage of the customers are from France, followed by Germany and Spain respectively.
+The age distribution visual shows that a greater number of the customers are between the age 26 -55, with the leading age group being 36 - 45.
