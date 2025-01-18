@@ -62,3 +62,5 @@ The bank equally have more customers who are high salary earners between €100,
   7. 55.66% of the active customers are male while 44.34% are female.
   8. 70% of the active customers are between the age of 26 - 45 years.
   9. Over 50% of the active customers are earning €100k and above.
+      
+![Active Customers](https://github.com/user-attachments/assets/81410e41-9119-41fc-91bf-aff07a5c0b40)
