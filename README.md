@@ -52,3 +52,13 @@ The bank equally have more customers who are high salary earners between €100,
 
 
 * **KEY FINDINGS**: Here are some of the key findings deduced from navigating the visuals using the slicers
+
+  1. France is where most of the customers are. 50.14% of the bank's customers are from France, and 810 of them have churned.
+  2. Germany, with 25% of the total customers has the highest number of churners at 814.
+  3. 24.77% of the customers are from Spain, and Spain has the least number of churners at 413.
+  4. 54.57% of the customers are male and 45.43% are female.
+  5. Of the 10,000 customers of the bank, only 5,151 of them are active with France still leading with 50% of the active customers.
+  6. Spain surprisingly, has more active customers than Germany, and also has the least number of churners among the 3 countries.
+  7. 55.66% of the active customers are male while 44.34% are female.
+  8. 70% of the active customers are between the age of 26 - 45 years.
+  9. Over 50% of the active customers are earning €100k and above.
