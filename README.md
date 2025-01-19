@@ -26,7 +26,7 @@ I used DAX to achieve the calculated measures and columns (e.g., Churn Rate, Tot
 
 **DATA VISUALIZATIONS AND DASHBOARDS**
 
-The project has been visualized on a single dashboard with the following visual components for easy navigation and adequate understanding, and ultimately to draw key insights from the analysis to aid business decision making going forward;
+The project has been visualized on 2 dashboards with the first page being for general analysis, while the second page focused on the Churned Customers. The following visual components were utilized for easy navigation and adequate understanding, and ultimately to draw key insights from the analysis to aid business decision making going forward;
 
 * Bar charts for trend analysis.
 
@@ -51,16 +51,44 @@ The bank equally have more customers who are high salary earners between €100,
 ![Overview](https://github.com/user-attachments/assets/69c1d779-c69f-46b2-8f4e-d49adcb82501)
 
 
-* **KEY FINDINGS**: Here are some of the key findings deduced from navigating the visuals using the slicers
+**KEY FINDINGS**: Here are some of the key findings deduced from navigating the visuals using the slicers;
+
+**General:** 
 
   1. France is where most of the customers are. 50.14% of the bank's customers are from France, and 810 of them have churned.
   2. Germany, with 25% of the total customers has the highest number of churners at 814.
   3. 24.77% of the customers are from Spain, and Spain has the least number of churners at 413.
   4. 54.57% of the customers are male and 45.43% are female.
-  5. Of the 10,000 customers of the bank, only 5,151 of them are active with France still leading with 50% of the active customers.
-  6. Spain surprisingly, has more active customers than Germany, and also has the least number of churners among the 3 countries.
-  7. 55.66% of the active customers are male while 44.34% are female.
-  8. 70% of the active customers are between the age of 26 - 45 years.
-  9. Over 50% of the active customers are earning €100k and above, and 1,873 of them have zero balance.
+
+**Active Customers**
+
+  1. Of the 10,000 customers of the bank, only 5,151 of them are active with France still leading with 50% of the active customers.
+  2. Spain surprisingly, has more active customers than Germany, and also has the least number of churners among the 3 countries.
+  3. 55.66% of the active customers are male while 44.34% are female.
+  4. 70% of the active customers are between the age of 26 - 45 years.
+  5. Over 50% of the active customers are earning €100k and above, and 1,873 of them have zero balance.
+  6. Using the 'Number of Products' slicer, you can see that 2,563 of the customers use 1 product, 2,446 of them use 2 products, and the number dropped drastically to 113 for customers that use 3 products and 29 for those that use 4 products. 
       
 ![Active Customers](https://github.com/user-attachments/assets/81410e41-9119-41fc-91bf-aff07a5c0b40)
+
+**CHURNED CUSTOMERS**: 
+
+For a deeper understanding, page 2 of the dashboard is dedicated to churned customers. Germany has a greater percentage of the churned customers, followed by France and Spain.
+* By gender, 55.92% are female customers.
+* Although the bank customers are more males than females, there are more female churned customers than the men.
+* Customers between the ages of 36 - 55 make up more than 50% of the churners.
+* Over 51% of the churners earn €100k and above.
+
+![Churned Customers](https://github.com/user-attachments/assets/58b0556e-7f26-4dfb-8937-9990aecb9a55)
+
+
+**KEY FINDINGS**: Below are some of the key findings from navigating the Churned Customers visuals with the slicers;
+  * A whooping 1,302 of the Churned customers are Inactive. This represents 64% of the total churned customers, 55.68% of which are female.
+  * Majority of these inactive churners are between the ages of 36 - 55 and earn €100k and above.
+
+![Inactive Churned customers](https://github.com/user-attachments/assets/9a12c7ca-b073-4d4b-91d2-6f8816c8ce9e)
+
+    
+   
+   
+
