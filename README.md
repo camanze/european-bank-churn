@@ -39,7 +39,7 @@ The project has been visualized on 2 dashboards with the first page being for ge
 
 * Reset button to return back to default after interactive analysis.
 
-For Interactive Power BI report, click [here]()
+For Interactive Power BI report, click [here](https://app.powerbi.com/view?r=eyJrIjoiNDQ2OTRhMGUtMmI0Ni00ZDE2LWJjNjAtNTAyOGZlZTg3ZjJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 **KEY INSIGHTS**
@@ -82,7 +82,8 @@ For a deeper understanding, page 2 of the dashboard is dedicated to churned cust
 * Customers between the ages of 36 - 55 make up more than 50% of the churners.
 * Over 51% of the churners earn €100k and above.
 
-![Churned Customers](https://github.com/user-attachments/assets/58b0556e-7f26-4dfb-8937-9990aecb9a55)
+![Churned Customers](https://github.com/user-attachments/assets/9930015c-d553-44e6-9dcb-72c1c35e8fea)
+
 
 
 **KEY FINDINGS**: Below are some of the key findings from navigating the Churned Customers visuals with the slicers;
@@ -91,7 +92,8 @@ For a deeper understanding, page 2 of the dashboard is dedicated to churned cust
   * 1,409 of the 2,037 total churned customers used 1 product, 348 used 2 products, 220 used 3 products, and 60 used 4 products.
   * 1,424 of the churned customers have credit card and 613 don't.
 
-![Inactive Churned customers](https://github.com/user-attachments/assets/9a12c7ca-b073-4d4b-91d2-6f8816c8ce9e)
+![Inactive Churned customers](https://github.com/user-attachments/assets/5913e3d8-dc32-4f6b-a089-61184f0e4e8c)
+
 
     
 **CONCLUSION**   
