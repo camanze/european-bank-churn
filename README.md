@@ -39,6 +39,9 @@ The project has been visualized on 2 dashboards with the first page being for ge
 
 * Reset button to return back to default after interactive analysis.
 
+For Interactive Power BI report, click [here]()
+
+
 **KEY INSIGHTS**
 
 Some Key Insights from this project's data visualization are summarized below:
