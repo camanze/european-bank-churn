@@ -67,7 +67,8 @@ The bank equally have more customers who are high salary earners between €100,
   3. 55.66% of the active customers are male while 44.34% are female.
   4. 70% of the active customers are between the age of 26 - 45 years.
   5. Over 50% of the active customers are earning €100k and above, and 1,873 of them have zero balance.
-  6. Using the 'Number of Products' slicer, you can see that 2,563 of the customers use 1 product, 2,446 of them use 2 products, and the number dropped drastically to 113 for customers that use 3 products and 29 for those that use 4 products. 
+  6. Using the 'Number of Products' slicer, you can see that 2,563 of the customers use 1 product, 2,446 of them use 2 products, and the number dropped drastically to 113 for customers that use 3 products and 29 for those that use 4 products.
+  7. 3,607 of the active customers have credit card, while 1,544 don't.
       
 ![Active Customers](https://github.com/user-attachments/assets/81410e41-9119-41fc-91bf-aff07a5c0b40)
 
@@ -85,10 +86,12 @@ For a deeper understanding, page 2 of the dashboard is dedicated to churned cust
 **KEY FINDINGS**: Below are some of the key findings from navigating the Churned Customers visuals with the slicers;
   * A whooping 1,302 of the Churned customers are Inactive. This represents 64% of the total churned customers, 55.68% of which are female.
   * Majority of these inactive churners are between the ages of 36 - 55 and earn €100k and above.
+  * 1,409 of the 2,037 total churned customers used 1 product, 348 used 2 products, 220 used 3 products, and 60 used 4 products.
+  * 1,424 of the churned customers have credit card and 613 don't.
 
 ![Inactive Churned customers](https://github.com/user-attachments/assets/9a12c7ca-b073-4d4b-91d2-6f8816c8ce9e)
 
     
-   
+**CONCLUSION**   
    
 
