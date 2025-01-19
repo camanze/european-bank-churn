@@ -1,11 +1,11 @@
 # European Bank Customer Churn Analysis using Excel and Power BI
 **PROJECT OBJECTIVE**
 
-This project is undertaken to provide a detailed analysis of customer demographics, behaviors, and churn patterns of 10,000 customers at a European bank. The project will identify key churn predictors, examine regional differences in account behavior, and segment customers for targeted retention and marketing strategies.
+This project aims to provide a comprehensive analysis of customer demographics, behaviours, and churn patterns for 10,000 customers at a European bank. The analysis identifies key predictors of customer churn, examines regional differences in account behaviour, and segments customers for targeted retention and marketing strategies.
 
-**DESCRIPTION OF THE DATASET**
+**DATASET DESCRIPTION**
 
-The dataset used for this project was downloaded from [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank), and contains account information for 10,000 customers at a European bank, including details on their credit score, balance, products, and whether they have churned. The original CSV file had a single table with 13 columns of partly clean data. The CSV file was first converted to an Excel file before importing into Power BI for transformation. 
+The dataset, sourced from [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=bank), includes account information for 10,000 customers at a European bank. It contains 13 columns detailing credit scores, balances, products, and churn status. The data was converted from a CSV format to an Excel file and imported into Power BI for transformation and visualization. 
 
 
 **TOOLS AND TECHNOLOGIES USED**
@@ -14,15 +14,14 @@ The dataset used for this project was downloaded from [Maven Analytics](https://
 
 **Power BI:** Data transformation, modelling, and visualization.
 
-**Data Cleaning (Excel)**
+**DATA CLEANING AND TRANSFORMATION**
 
-As the dataset was already clean and almost ready for use, the major actions taken in Excel was Changing the values under 3 columns (HasCrCard, IsActiveMember, and Exited) to "Yes" and "No"
-
-**Data Transformation (Power BI)**
-
-This was the major tool used for this project. After the dataset was imported into Power BI, data transformations were performed. Four calculated columns were added to the table, and data type changes were made to three columns.
-
-I used DAX to achieve the calculated measures and columns (e.g., Churn Rate, Total Customers, Average Account Balance, Oldest/Youngest Age, Age Group, Salary Group, Credit Score Group, etc).
+1. **Excel:**
+   * Cleaned and reformatted values for the "HasCrCard," "IsActiveMember," and "Exited" columns to "Yes" and "No."
+2. **Power BI:**
+   * Added four calculated columns using DAX to create metrics such as Churn Rate, Total Customers, Average Account Balance, and segmented groups (Age, Salary, and Credit Score).
+   * Transformed data types for three columns to ensure consistency.
+   * Used DAX to achieve the calculated measures and columns (Churn Rate, Total Customers, Average Account Balance, Oldest/Youngest Age, Age Group, Salary Group, Credit Score Group, etc).
 
 **DATA VISUALIZATIONS AND DASHBOARDS**
 
@@ -40,7 +39,7 @@ The project has been visualized on 2 dashboards with the first page being for ge
 
 * Reset button to return back to default after interactive analysis.
 
-**INSIGHTS**
+**KEY INSIGHTS**
 
 Some Key Insights from this project's data visualization are summarized below:
 
@@ -93,5 +92,38 @@ For a deeper understanding, page 2 of the dashboard is dedicated to churned cust
 
     
 **CONCLUSION**   
-   
+1. Churn is highest among customers in Germany, particularly females aged 36-55 earning over €100,000.
+2. Customers using only one product or maintaining zero balances are more likely to churn.
+3. Active customers are predominantly younger (26-45) and higher earners, emphasizing the importance of retaining this demographic.
+4. France has the largest customer base but relatively lower churn rates compared to Germany.   
 
+
+**RECOMMENDATIONS**
+
+1. **Targeted Retention Strategies:**
+
+* Implement loyalty programs for high-earning customers aged 36-55.
+
+* Focus retention efforts on German customers, especially inactive ones.
+
+2. **Product Engagement:**
+
+* Offer incentives for customers to use multiple products (e.g., bundled services).
+
+* Educate customers on the benefits of additional financial products.
+
+3. **Customer Segmentation:**
+
+* Develop personalized engagement strategies based on demographic and behavioral data.
+
+4. **Regional Focus:**
+
+* Address churn in Germany through localized campaigns.
+
+* Leverage Spain’s active customer base to replicate best practices elsewhere.
+
+5. **Monitor Inactive Accounts:**
+
+* Regularly review and engage inactive customers to prevent churn.
+
+By addressing these areas, the bank can reduce churn, enhance customer satisfaction, and improve overall profitability.
